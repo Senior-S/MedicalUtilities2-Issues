@@ -5,9 +5,9 @@
     <downedPermissionBlacklist>
       <permission>insta.kill</permission>
     </downedPermissionBlacklist>
-    <explosionInstantKill>true</explosionInstantKill>
+    <explosionInstantKill>false</explosionInstantKill>
     <logToDiscord>false</logToDiscord>
-    <logWebhookURL></logWebhookURL>
+    <logWebhookURL />
   </general>
   <downedProperties>
     <downedMovementSpeed>0.2</downedMovementSpeed>

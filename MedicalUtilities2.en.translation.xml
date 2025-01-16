@@ -7,6 +7,9 @@
   <Translation Id="medic_pay" Value="You have been paid ${0} for reviving a player" />
   <Translation Id="downed_payment" Value="You have paid ${0} as medic costs." />
   <Translation Id="downed_player_near" Value="Downed player near you! Crouch &amp; Surrender to do RCP Use a defibrillator to revive faster" />
+  <Translation Id="player_not_found" Value="Player not found!" />
+  <Translation Id="player_not_downed" Value="{0} isn't downed." />
+  <Translation Id="player_revive" Value="Successfully revived {0}" />
   <Translation Id="log_downed_title" Value="**{0}** have been downed" />
   <Translation Id="log_general_description" Value="&gt; Killer: [{0}](https://steamcommunity.com/profiles/{1})&#xA;&gt; Cause: {2}" />
   <Translation Id="log_death_title" Value="**{0}** died" />
