@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <hexDefaultMessagesColor>#2BC415</hexDefaultMessagesColor>
+  <general>
+    <downedPermissionBlacklist>
+      <permission>insta.kill</permission>
+    </downedPermissionBlacklist>
+    <explosionInstantKill>true</explosionInstantKill>
+    <logToDiscord>false</logToDiscord>
+    <logWebhookURL></logWebhookURL>
+  </general>
+  <downedProperties>
+    <downedMovementSpeed>0.2</downedMovementSpeed>
+    <drugPlayer>false</drugPlayer>
+    <downedSeconds>60</downedSeconds>
+    <canSuicide>true</canSuicide>
+    <downedUIID>45300</downedUIID>
+    <medicEffectGuid>ff34b408-396b-4bd4-8840-8d230f3a1d0f</medicEffectGuid>
+    <dropEquippedItem>true</dropEquippedItem>
+    <canKillDowned>true</canKillDowned>
+    <disableCraftingWhileDowned>true</disableCraftingWhileDowned>
+  </downedProperties>
+  <medicProperties>
+    <medicPermission>medic.permission</medicPermission>
+    <reviveHealth>15</reviveHealth>
+    <reviveRadius>5</reviveRadius>
+    <reviveTimeSeconds>15</reviveTimeSeconds>
+    <revivingUIID>45301</revivingUIID>
+    <nearDownUIID>45302</nearDownUIID>
+  </medicProperties>
+  <defibrillatorProperties>
+    <defibrillatorID>333</defibrillatorID>
+    <reviveHealth>30</reviveHealth>
+    <reviveTimeSeconds>8</reviveTimeSeconds>
+  </defibrillatorProperties>
+  <economyProperties>
+    <useUconomy>false</useUconomy>
+    <payPerRevive>500</payPerRevive>
+    <shouldDownedPayRevive>false</shouldDownedPayRevive>
+  </economyProperties>
+</Configuration>

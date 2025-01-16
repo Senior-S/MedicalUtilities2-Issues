@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="downed_text" Value="You're downed, giving up in {0} seconds..." />
+  <Translation Id="ems_notification" Value="A player is requesting help, player position have been marked on the -=b=--=color=#407294=-map-=/color=--=/b=-" />
+  <Translation Id="no_ems" Value="Sorry, no medics online at the moment, try again later." />
+  <Translation Id="reviving_text" Value="Doing CPR, {0} seconds left..." />
+  <Translation Id="medic_pay" Value="You have been paid ${0} for reviving a player" />
+  <Translation Id="downed_payment" Value="You have paid ${0} as medic costs." />
+  <Translation Id="downed_player_near" Value="Downed player near you! Crouch &amp; Surrender to do RCP Use a defibrillator to revive faster" />
+  <Translation Id="log_downed_title" Value="**{0}** have been downed" />
+  <Translation Id="log_general_description" Value="&gt; Killer: [{0}](https://steamcommunity.com/profiles/{1})&#xA;&gt; Cause: {2}" />
+  <Translation Id="log_death_title" Value="**{0}** died" />
+  <Translation Id="log_revive_title" Value="**{0}** revived **{1}**" />
+  <Translation Id="log_revive_description" Value="&gt; Medic: [{0}](https://steamcommunity.com/profiles/{1})" />
+</Translations>
