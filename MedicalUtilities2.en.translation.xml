@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="prefix" Value="-=color=#edf2f4=-[-=/color=--=color=#d00000=-MedicalUtilities2-=/color=--=color=#edf2f4=-]-=/color=- " />
   <Translation Id="downed_text" Value="You're downed, giving up in {0} seconds..." />
   <Translation Id="ems_notification" Value="A player is requesting help, player position have been marked on the -=b=--=color=#407294=-map-=/color=--=/b=-" />
   <Translation Id="no_ems" Value="Sorry, no medics online at the moment, try again later." />
